@@ -1,0 +1,49 @@
+ body {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, sans-serif;
+                background: #222;
+            }
+            .top {
+                background-image: url('Top 10 Things To Do In Raja Ampat For Non-Divers.jpg');
+                height: 400px;
+                background-size: cover;
+                background-position: center;
+                position: relative;
+            }
+            .navbar {
+                display: flex;
+                align-items: center;
+                padding: 20px 30px;
+            }
+            .navbar a {
+                color: white;
+                text-decoration: none;
+                margin-right: 30px;
+                font-size: 1.2em;
+                align-items: center;
+            }
+            .navbar a:first-child {
+                margin-left: 500px;
+            }
+            .navbar a:hover {
+                color: aquamarine;
+            }
+            .narration {
+                margin-top: 0px;
+                margin-right: 30px;
+                color: white;
+                text-align: center;
+            }
+            .more{
+                background-image: url(10\ Beautiful\ Spots\ in\ Bali\ that\ are\ Instagram\ Worthy\ -\ Drifter\ Planet.jpg);
+                background-size: cover;
+                background-position: center;
+                position: relative;
+                height: 400px;
+                text-align: center;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: whitesmoke;
+            }
